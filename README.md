@@ -2,7 +2,7 @@
 
 ![weir](doc/weir.jpg)
 
-A Clojure library for a Function Reactive Frontend, based on the [sente](https://github.com/ptaoussanis/sente), [franz](https://gitlab.com/j-pb/franz), [datascript](https://github.com/tonsky/datascript) and [reagent](https://github.com/reagent-project/reagent) stack.
+A Clojure library for a Functional Reactive Frontend, based on the [sente](https://github.com/ptaoussanis/sente), [franz](https://gitlab.com/j-pb/franz), [datascript](https://github.com/tonsky/datascript) and [reagent](https://github.com/reagent-project/reagent) stack.
 
 ## Usage
 
